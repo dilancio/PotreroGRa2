@@ -1,0 +1,13 @@
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(204, 125, 22);
+}
+h2{
+    color:darkgreen;
+}
+p{
+    color:dimgray;
+}
+p.descripcion-recetas{
+    color: rgb(56, 140, 143);
+}
